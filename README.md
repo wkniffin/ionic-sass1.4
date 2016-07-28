@@ -1,15 +1,16 @@
+Fixed for Meteor 1.4! All taken from meteoric:ionic-sass.
+
 ![](http://f.cl.ly/items/391y4708420P0H001k1G/meteoric.png)
 
 # ionic-sass
 
-Fixed for Meteor 1.4! All taken from meteoric:ionic-sass.
 [Ionic's CSS Framework](http://ionicframework.com/docs/components/) in SASS and bundled for Meteor. Currently up to date with version `v1.0.0-beta.13`.
 
 ## Installation
 
 ```
 meteor add fourseven:scss
-meteor add meteoric:ionic-sass
+meteor add wkniffin:ionic-sass1.4
 ```
 
 Then in your app's `.scss` file:
