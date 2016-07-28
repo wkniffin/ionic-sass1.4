@@ -2,7 +2,7 @@ Package.describe({
   name: 'wkniffin:ionic-sass1.4',
   summary: "Ionic's CSS Framework in SASS and bundled for Meteor 1.4. Taken from meteoric:ionic-sass.",
   version: '0.1.0',
-  git: 'https://github.com/wkniffin/ionic-sass'
+  git: 'https://github.com/wkniffin/ionic-sass1.4'
 });
 
 Package.onUse(function(api) {
